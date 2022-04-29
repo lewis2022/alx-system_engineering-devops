@@ -1,1 +1,3 @@
-this is a readme for shell basic task
+Alx-system_engineering-devops 
+#shell/bash scripting
+
